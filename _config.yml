@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "포항제철중 졸업, 포항제철고 졸업, UNIST 재학 중"
   location         : "울산(학교), 포항(본가)"
-  email            :
+  email            : "pos10022@unist.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
