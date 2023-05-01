@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "조운경"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "포항제철중 졸업, 포항제철고 졸업, UNIST 재학 중"
+  location         : "울산(학교), 포항(본가)"
   email            :
   links:
     - label: "Email"
