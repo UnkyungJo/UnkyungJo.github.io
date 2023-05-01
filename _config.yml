@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "조운경"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/KakaoTalk_20230421_151013656.jpg"
   bio              : "포항제철중 졸업, 포항제철고 졸업, UNIST 재학 중"
   location         : "울산(학교), 포항(본가)"
   email            : "pos10022@unist.ac.kr"
